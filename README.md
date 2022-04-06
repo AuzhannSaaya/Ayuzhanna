@@ -11,3 +11,4 @@ https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/одиннадцать.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/поклон.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/порядок.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/природа.jpg
+https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/путешествие.jpg
