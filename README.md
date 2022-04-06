@@ -6,3 +6,4 @@ https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/восемь.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/гласные.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/девять.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/десять.jpg
+https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/корея.jpg
