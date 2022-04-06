@@ -13,3 +13,4 @@ https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/порядок.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/природа.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/путешествие.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/сну.jpg
+https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/спасение.jpg
