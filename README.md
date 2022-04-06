@@ -16,3 +16,4 @@ https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/сну.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/спасение.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/тыва.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/хангыль.jpg
+https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/чимин.jpg
