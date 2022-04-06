@@ -8,3 +8,4 @@ https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/девять.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/десять.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/корея.jpg
 https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/одиннадцать.jpg
+https://github.com/AuzhannSaaya/Ayuzhanna/blob/main/поклон.jpg
